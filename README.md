@@ -101,7 +101,7 @@
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/RayhanPJ/Awesome-Dev-Portfolios">
@@ -109,6 +109,7 @@
         </a>
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 <br />
